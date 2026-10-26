@@ -1,0 +1,1 @@
+Privacy policy. This app has one user, its owner. It reads the owner's Gmail, Calendar, Drive, Sheets and Docs on the owner's own computer, keeps what it reads on that computer, and sends it nowhere except to Claude through the owner's own subscription. It collects nothing from anyone else.
